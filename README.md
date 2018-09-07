@@ -1,1 +1,1 @@
-# prims-minimum-spanning-tree-using-priority-queue
+# prims-minimum-spanning-tree-using-priority-queue with decrease key function
